@@ -25,11 +25,12 @@ This project presents an interactive Tableau dashboard analyzing sales performan
 
 ## 📷 Dashboard Preview
 1)
-<img width="1440" height="868" alt="Screenshot 2026-04-18 at 5 48 09 PM" src="https://github.com/user-attachments/assets/73e7ef47-74aa-44bd-a009-92f271e78d26" />
+<img width="1440" height="871" alt="Amazon ( Dashboard 1 ) Image " src="https://github.com/user-attachments/assets/35fb87b4-8aab-4c72-b8c0-b6d466ef4c67" />
+
 
 
 2)
-<img width="1440" height="868" alt="Screenshot 2026-04-18 at 5 48 20 PM" src="https://github.com/user-attachments/assets/a40b1d03-47fe-443c-8158-ed92741a9392" />
+<img width="1440" height="871" alt="Amazon ( Dashboard 2 ) Image " src="https://github.com/user-attachments/assets/c373c82a-bb25-40a1-b5f7-1613ac996135" />
 
 
 ## 🚀 How to Use
